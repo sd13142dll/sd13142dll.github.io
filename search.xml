@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>save分支存放项目源码；master分支存放打包后的博客静态页面</title>
+      <link href="/2019/05/13/test-save-branch/"/>
+      <url>/2019/05/13/test-save-branch/</url>
+      
+        <content type="html"><![CDATA[<p>Hexo项目代码存放的方式</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/05/12/hello-world/"/>
       <url>/2019/05/12/hello-world/</url>
@@ -17,7 +30,7 @@
     
     
     <entry>
-      <title>&#39;js_ajax&#39;</title>
+      <title>js_ajax</title>
       <link href="/2019/05/12/js-ajax/"/>
       <url>/2019/05/12/js-ajax/</url>
       
